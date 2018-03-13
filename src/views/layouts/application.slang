@@ -1,7 +1,7 @@
 doctype html
 html
   head
-    title Jumprope Cms Crystal using Amber
+    title Jumprope CMS Crystal using Amber
     meta charset="utf-8"
     meta http-equiv="X-UA-Compatible" content="IE=edge"
     meta name="viewport" content="width=device-width, initial-scale=1"
